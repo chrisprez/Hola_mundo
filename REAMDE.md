@@ -1,1 +1,0 @@
-Este repositorio es el del curso de Hola_mundo de Udemy
