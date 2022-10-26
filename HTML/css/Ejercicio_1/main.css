@@ -1,0 +1,28 @@
+body {
+    background-color: #eee
+}
+
+.caja{
+    margin: 5px;
+    border-style:outset;
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
+}
+.aceptar{
+
+    background-color: blue;
+    color: white;
+    margin-right: 10px;
+    border: 0ch;
+    padding: 5px;
+}
+.cancelar{
+    background-color: grey;
+    color: white;
+    border: 0ch;
+    padding: 5px;
+
+}
+
+

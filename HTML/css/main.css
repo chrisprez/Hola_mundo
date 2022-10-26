@@ -1,0 +1,18 @@
+body {
+    background-color: #eee
+}
+
+.caja {
+     margin: 8px; /* Crea margen */
+    border-style: dotted dashed solid double; /* Crea borde de caja, se puede aplicar varios estilos a la vez */
+    border-width: 7px;
+    border-color: #faa;
+    /* Podemos escoger estilos por borde independiente */
+    padding: 8px;  /* Crea amplitud de caja */
+    background-color: #aaf;
+    border-radius: 4px; /*borde redondo */
+    height: 100px; /* Definimos tamaño caja*/
+    width: 100px;
+    color: #575;
+}
+
